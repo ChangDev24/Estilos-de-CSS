@@ -1,0 +1,38 @@
+/* h1{
+    font-size: 10px;
+} */
+
+
+/* @import url('https://fonts.googleapis.com/css2?family=Gowun+Batang:wght@400;700&display=swap'); */
+
+body{
+    background-color: #242424;
+}
+
+h1{
+    color:skyblue;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+
+    text-transform: uppercase;
+    /* text-transform: lowercase;
+    text-transform: capitalize; */
+    text-align: center;
+    font-style: italic;
+    text-decoration: underline;
+    letter-spacing: 10px;
+    word-spacing: 10px;
+}
+
+a{
+    color:green;
+    text-decoration: none;  
+    /* el none es para quitarle el subrayado al enlace */
+}
+
+
+.principalTitle{
+    color:blue;
+}
+
+
